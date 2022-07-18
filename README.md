@@ -1,1 +1,1 @@
-# this is a bolerplate for node-ts
+# this is a boilerplate for node-ts
